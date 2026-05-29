@@ -64,41 +64,67 @@ A passionate Computer Science Engineer focused on building **production-ready AI
 
 ---
 
+
 ## 🧠 Featured Projects
 
-### ⚖️ Lawgorithm
+### ⚖️ Lawgorithm  
+### AI-Powered Legal Advisory System
 
-**AI-powered Legal Advisory System**
+🚀 An intelligent legal assistant that simplifies legal workflows using **LLMs, RAG pipelines, and AI agents**.
 
-🔹 FIR Drafting using AI
-🔹 Legal Q&A with RAG pipelines
-🔹 Verdict Prediction using Multi-Agent Workflows
+🔹 FIR Drafting using AI  
+🔹 Legal Q&A with RAG Pipelines  
+🔹 Verdict Prediction using Multi-Agent Workflows  
+🔹 Semantic Search using ChromaDB  
 
-**Tech Stack:** `LLMs` `RAG` `FastAPI` `React` `ChromaDB`
+**🛠️ Tech Stack:**  
+`LLMs` `RAG` `FastAPI` `React` `ChromaDB`
+
+💻 **GitHub Repository:**  
+[Lawgorithm-MAIN-](https://github.com/pramod-motupalli/Lawgorithm-MAIN-)
 
 ---
 
-### 🌐 Telugu Tilakam
+### 🌐 Telugu Tilakam  
+### Multilingual Cultural Platform
 
-**Multilingual Cultural Platform**
+🚀 A cultural platform focused on preserving and promoting **Telugu language, traditions, and engagement** through modern web technologies.
 
-🔹 JWT Authentication & RBAC
-🔹 Chatbot + Post Engagement Features
-🔹 Admin Panel & User Profiles
+🔹 JWT Authentication & RBAC  
+🔹 Chatbot + Post Engagement Features  
+🔹 Admin Panel & User Profiles  
+🔹 Multilingual Support  
 
-**Tech Stack:** `React` `Express.js` `MongoDB`
+**🛠️ Tech Stack:**  
+`React` `Express.js` `MongoDB`
+
+🌍 **Live Website:**  
+[Telugu Tilakam](https://telugutilakam.jntugvcev.in/)
+
+💻 **GitHub Repository:**  
+[Visit Repository](https://github.com/pramod-motupalli/AndhraTilakam.git)
 
 ---
 
 ## 📊 GitHub Stats
+<!--
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pramod-motupalli&show_icons=true&theme=radical&cache_seconds=1800" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramod-motupalli&layout=compact&theme=radical" />
+</p>
 
-<!-- Add your GitHub username below -->
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=pramod-motupalli&theme=radical" />
+</p>
+-->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pramod-motupalli&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
 
 ---
 
@@ -121,9 +147,7 @@ A passionate Computer Science Engineer focused on building **production-ready AI
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-black?style=for-the-badge&logo=vercel" />
   </a>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
+
 </p>
 
 
