@@ -1,4 +1,4 @@
-
+<!--
  <h1 align="center" font="bold">👋 Hi, I'm Pramod Motupalli </h1>
 
 <h4 align="center">
@@ -166,3 +166,88 @@
 ## 💡 Quote
 
 > **"Build systems that solve problems — code with purpose."** 🚀
+-->
+
+<h1 align="center">👋 Hi, I'm Pramod Motupalli</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer | AI/LLM Engineer | GATE Qualified
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/s-n-m-s-durga-pramod-motupalli-643a9a255/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Pramod_Motupalli-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:motupallipramod21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://pramodmotupalli.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 **B.Tech CSE Graduate @ JNTU-GV** (CGPA: **8.65**) <br>
+🏆 **GATE CSE Qualified (2025 & 2026)** <br>
+💻 Backend-focused developer building **AI-powered systems & scalable APIs** <br>
+🤖 Interested in **LLMs, RAG, AI Agents & Generative AI** <br>
+📊 Solved **390+ DSA problems on LeetCode**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7B68EE?style=for-the-badge"/>
+</p>
+
+---
+
+## 💼 Experience
+
+### 🏢 Junior Software Engineer @ GA Digital Solutions
+- Built **20+ REST APIs** using Django + PostgreSQL  
+- Developed **AI Agents & LLM Bots** for recruitment automation  
+- Built analytics dashboards & RBAC systems  
+
+---
+
+## 🧠 Featured Projects
+
+### ⚖️ Lawgorithm
+AI-powered legal advisory system using **LLMs + RAG**
+
+🔗 [GitHub](https://github.com/pramod-motupalli/Lawgorithm-MAIN-)
+
+### 🌐 Telugu Tilakam
+Multilingual cultural platform with **JWT Auth & Chatbot**
+
+🌍 [Live Website](https://telugutilakam.jntugvcev.in/)  
+🔗 [GitHub](https://github.com/pramod-motupalli/AndhraTilakam)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pramod-motupalli&theme=tokyonight"/>
+</p>
+
+---
+
+> **"Build systems that solve problems — code with purpose."** 🚀
+
